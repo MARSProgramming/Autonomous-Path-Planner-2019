@@ -1,0 +1,44 @@
+.chart-plot-background {
+    -fx-background-color: transparent;
+    -fx-background-size: 606px 303px;
+}
+
+#XYMapForwards .chart-plot-background {
+   	-fx-background-image: url("frcFieldAngled.png");
+}
+
+#XYMapForwards .series0.chart-symbol{
+	-fx-background-color: #009900;
+	-fx-size: 5px;
+    -fx-padding: 2px;
+}
+
+#XYMapBackwards .chart-plot-background {
+   	-fx-background-image: url("frcFieldAngled.png");
+}
+
+#XYMapBackwards .series0.chart-symbol{
+	-fx-background-color: red;
+	-fx-size: 5px;
+    -fx-padding: 2px;
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: #a7a7a7;
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: #a7a7a7;
+}
+
+.series0.chart-symbol{
+	-fx-background-color: #FF4500;
+	-fx-size: 5px;
+    -fx-padding: 2px;
+}
+
+.series1.chart-symbol{
+	-fx-background-color: purple;
+	-fx-size: 5px;
+    -fx-padding: 2px;
+}
