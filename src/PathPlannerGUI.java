@@ -12,7 +12,7 @@
  * Off-Season/Future Projects:
  * - Swerve Modifier
  * - Close window with Command+W
- * - Can I Bootstrap this crap?
+ * - Can I Bootstrap this?
  */
 
 /**
